@@ -1,0 +1,1 @@
+This is Teddy Dube's first git project!
